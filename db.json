@@ -2,13 +2,14 @@
   "books": [
     {
       "id": 1,
-      "title": "hello",
-      "author": "author1",
-      "category": "category1",
-      "ISBN": "0123456789",
+      "title": "Van Gogh. The Complete Paintings",
+      "author": "Ingo F. Walther",
+      "category": "culture and art",
+      "ISBN": 9783836572934,
       "createdAt": "12 March 2022, 8:35AM",
       "editedAt": "13 March 2022, 1:48PM",
-      "status": "active"
+      "status": "active",
+      "imgSrc": "https://balka-book.com/files/2021/09_02/19_09/u_files_store_29_9517.jpg"
     }
   ]
 }
