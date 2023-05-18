@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "hello",
+      "author": "author1",
+      "category": "category1",
+      "ISBN": "0123456789",
+      "createdAt": "12 March 2022, 8:35AM",
+      "editedAt": "13 March 2022, 1:48PM",
+      "status": "active"
+    }
+  ]
+}
